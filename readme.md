@@ -1,7 +1,7 @@
- # 🏥 AI-Powered Telemedicine Kiosk (Prototype)  
+ # 🏥 AI-Powered Telemedicine-Kiosk (Prototype)  
 
 ## 📌 Overview  
-Healthcare accessibility in rural India remains a critical challenge. This project introduces an **AI-driven telemedicine kiosk**, allowing users to **authenticate via biometrics**, report symptoms in their **preferred language**, and receive **AI-based symptom predictions**. The system aims to **bridge the healthcare gap** by providing an initial diagnosis before directing patients to medical professionals.  
+Rural India lacks doctors, diagnostic facilities, and reliable internet. Existing telemedicine apps are hard to use due to language and literacy barriers. Patients delay treatment and depend on urban hospitals, causing overcrowding, higher costs, and widening the healthcare gap
 
 ## 🚀 Features  
 - **Multilingual Support**: Speech recognition API allows users to interact in their preferred language.  
@@ -18,10 +18,4 @@ Healthcare accessibility in rural India remains a critical challenge. This proje
 - **Ensuring high accuracy in symptom predictions** to minimize misdiagnosis.  
 - **User-friendliness** for those unfamiliar with AI-driven systems.  
 
-## 👥 Contributors  
-- **Janani Hariharakrishnan** (Team Leader)  
-- **Shaun Allan**  
-- **Mathesh D**  
-- **Nitin Staines**
-- **Harish K**
-- **Rohan Raja**
+
