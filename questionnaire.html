@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questionnaire</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: url("{{ url_for('static', filename='pxfuel.jpg') }}");
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            font-size: 24px;
+            text-align: center;
+        }
+
+        #question-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+
+        #answer-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+            background-color: #58c45b;
+            color: #fff;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Questionnaire</h1>
+    <div id="question-container">
+        <p>{{ question }}</p>
+    </div>
+    <div id="answer-container">
+        <button id="yes-button">Yes</button>
+        <button id="no-button">No</button>
+    </div>
+
+    <script>
+        var yesButton = document.getElementById('yes-button');
+        var noButton = document.getElementById('no-button');
+        var questionContainer = document.getElementById('question-container');
+    
+        yesButton.addEventListener('click', function () {
+            sendAnswer('Yes');
+        });
+    
+        noButton.addEventListener('click', function () {
+            sendAnswer('No');
+        });
+    
+        function sendAnswer(answer) {
+            fetch('/answer', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: 'answer=' + answer,
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.current_question < data.total_questions) {
+                    // Display the next question
+                    questionContainer.innerHTML = data.question;
+                } else {
+                    // Redirect to the results page
+                    window.location.href = '/results';
+                }
+            });
+        }
+    </script>    
+</body>
+</html>

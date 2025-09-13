@@ -1,0 +1,416 @@
+question,answer,affirmative_or_non_affirmative
+"Is the sky blue?","Yes, the sky is typically blue.",affirmative
+"Do you like pizza?","No, I prefer other types of food.",non_affirmative
+"Have you been to Paris?","Yes, I visited Paris last year.",affirmative
+"Did you watch the latest movie?","No, I haven't had the chance to watch it yet.",non_affirmative
+"Is the Earth flat?","No, the Earth is an oblate spheroid.",non_affirmative
+"Is the sun made of cheese?","No, that's just a humorous idea.",non_affirmative
+"Do you enjoy hiking?","Yes, hiking is one of my favorite activities.",affirmative
+"Did you have breakfast today?","Yes, I had a quick breakfast this morning.",affirmative
+"Are you a robot?","No, I'm a human being.",non_affirmative
+"Is water wet?","Yes, water can make other things wet.",affirmative
+"Have you ever climbed a mountain?","No, I've never climbed a mountain.",non_affirmative
+"Did you attend the conference last week?","Yes, I was there.",affirmative
+"Are you a fan of science fiction?","No, it's not my cup of tea.",non_affirmative
+"Is pineapple a suitable pizza topping?","Yes, some people enjoy pineapple on pizza.",affirmative
+"Did you win the lottery?","No, I didn't win.",non_affirmative
+"Have you met a celebrity in person?","Yes, I met a celebrity once.",affirmative
+"Is it snowing outside?","No, it's a clear day.",non_affirmative
+"Did you take a vacation this year?","Yes, I went on vacation in July.",affirmative
+"Is coffee your preferred morning beverage?","No, I prefer tea.",non_affirmative
+"Have you ever traveled abroad?","Yes, I've been to several countries.",affirmative
+"Is the moon made of cheese?","No, the moon is not made of cheese.",non_affirmative
+"Do you enjoy playing musical instruments?","Yes, I play the guitar.",affirmative
+"Did you finish reading that book?","No, I'm still in the middle of it.",non_affirmative
+"Is chocolate your favorite dessert?","Yes, chocolate is my all-time favorite.",affirmative
+"Have you ever gone skydiving?","No, I haven't tried skydiving.",non_affirmative
+"Did you go to the gym today?","Yes, I had a good workout session.",affirmative
+"Is your favorite color blue?","No, I prefer green.",non_affirmative
+"Do you believe in ghosts?","Yes, I believe in the possibility of ghosts.",affirmative
+"Did you watch the sports game last night?","No, I missed it.",non_affirmative
+"Is laughter the best medicine?","Yes, laughter can be quite therapeutic.",affirmative
+"Have you ever climbed a tree?","Yes, I used to climb trees as a child.",affirmative
+"Did you enjoy the concert last weekend?","No, it was too loud for my taste.",non_affirmative
+"Is pizza better with pineapple?","Yes, I think pineapple on pizza is delicious.",affirmative
+"Have you ever won a contest?","Yes, I won a cooking contest once.",affirmative
+"Did you visit the art museum this month?","No, I didn't have the chance.",non_affirmative
+"Is your phone your most-used gadget?","Yes, I rely on my phone for everything.",affirmative
+"Do you believe in extraterrestrial life?","Yes, I think it's possible.",affirmative
+"Did you watch the sunrise today?","No, I missed it.",non_affirmative
+"Is your favorite season winter?","No, I prefer spring.",non_affirmative
+"Have you ever been scuba diving?","Yes, I've been scuba diving in the Caribbean.",affirmative
+"Is the ocean salty?","Yes, the ocean contains dissolved salts.",affirmative
+"Do you enjoy gardening?","Yes, gardening is a relaxing hobby.",affirmative
+"Did you eat sushi for lunch?","No, I had a sandwich instead.",non_affirmative
+"Is English your first language?","Yes, English is my native language.",affirmative
+"Have you ever visited the Grand Canyon?","No, I haven't been there yet.",non_affirmative
+"Did you watch the latest episode of your favorite TV show?","Yes, I never miss it.",affirmative
+"Is coffee better with cream and sugar?","No, I like my coffee black.",non_affirmative
+"Do you think technology is making life easier?","Yes, it has many conveniences.",affirmative
+"Did you go for a walk today?","No, I didn't have time for it.",non_affirmative
+"Is classical music your favorite genre?","Yes, I appreciate classical music.",affirmative
+"Have you ever won a game of chess?","Yes, I've won a few times.",affirmative
+"Did you bake cookies this week?","No, I bought some from the store.",non_affirmative
+"Is art an important part of your life?","Yes, I'm passionate about art.",affirmative
+"Have you ever traveled solo?","Yes, I went on a solo trip to Europe.",affirmative
+"Did you watch the sunrise today?","No, I'm not an early riser.",non_affirmative
+"Is your favorite color red?","Yes, I love the color red.",affirmative
+"Do you believe in time travel?","No, it's a fascinating concept but unlikely.",non_affirmative
+"Did you go to a concert last month?","Yes, I saw my favorite band perform.",affirmative
+"Is swimming in the ocean safe?","Yes, if you follow safety guidelines.",affirmative
+"Have you ever gone horseback riding?","No, I've never tried it.",non_affirmative
+"Is the Earth round?","the Earth is an oblate spheroid.",affirmative
+"Do you like spicy food?","I prefer milder flavors.",non_affirmative
+"Have you ever traveled by train?","I've taken many train trips.",affirmative
+"Did you attend a wedding last month?","I didn't have any invitations.",non_affirmative
+"Is chocolate ice cream your favorite?","it's my go-to flavor.",affirmative
+"Have you ever climbed a mountain?","I haven't had the opportunity.",non_affirmative
+"Did you exercise today?","I did a short workout.",affirmative
+"Is your favorite book a classic?","I prefer contemporary literature.",non_affirmative
+"Do you believe in aliens?","the universe is vast.",affirmative
+"Did you see a rainbow this week?","the weather has been cloudy.",non_affirmative
+"Is your favorite sport soccer?","I'm a soccer fan.",affirmative
+"Have you ever visited a museum?","I've been to several.",affirmative
+"Did you go on a road trip this year?","I didn't have the time.",non_affirmative
+"Is coffee your morning ritual?","I can't start the day without it.",affirmative
+"Have you ever won a competition?","I usually participate for fun.",non_affirmative
+"Did you watch a documentary last night?","I find them informative.",affirmative
+"Is your favorite season summer?","I prefer the fall.",non_affirmative
+"Do you think luck plays a role in success?","luck can be a factor.",affirmative
+"Did you visit a national park this year?","I haven't had the chance.",non_affirmative
+"Is dancing a skill you possess?","I enjoy dancing.",affirmative
+"Is the universe infinite?","The universe's vastness is still a topic of scientific inquiry.",affirmative
+"Do you enjoy cooking?","I find cooking to be a relaxing hobby.",affirmative
+"Have you ever traveled by boat?","I've taken a cruise before.",affirmative
+"Did you attend a concert last weekend?","I had other commitments.",non_affirmative
+"Is chocolate better with almonds?","I think chocolate and almonds go well together.",affirmative
+"Have you ever gone camping?","I've never been camping.",non_affirmative
+"Did you meditate today?","I practice meditation daily.",affirmative
+"Is your favorite movie a classic?","I prefer contemporary films.",non_affirmative
+"Do you believe in supernatural phenomena?","I'm open to the possibility.",affirmative
+"Did you see a shooting star last night?","The night sky was cloudy.",non_affirmative
+"Is your favorite holiday Christmas?","I love the festive atmosphere.",affirmative
+"Have you ever visited an art gallery?","I've been to many art galleries.",affirmative
+"Did you go on a road trip this summer?","I had work commitments.",non_affirmative
+"Is tea your morning beverage of choice?","I prefer tea over coffee.",affirmative
+"Have you ever won a scholarship?","I didn't apply for scholarships.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I had a TV marathon.",affirmative
+"Is your favorite season autumn?","I enjoy the cool weather.",affirmative
+"Do you believe in fate?","I believe life is a mix of choices and chance.",affirmative
+"Did you visit a zoo this year?","I haven't been to a zoo recently.",non_affirmative
+"Is painting a skill you possess?","I enjoy expressing myself through painting.",affirmative
+"Is the universe expanding?","The universe's expansion is a well-documented phenomenon.",affirmative
+"Do you enjoy playing sports?","I find sports to be a great way to stay active.",affirmative
+"Have you ever visited an island?","I've explored several beautiful islands.",affirmative
+"Did you go to a party last weekend?","I chose not to attend any parties.",non_affirmative
+"Is chocolate the best dessert?","Many people love chocolate as a dessert.",affirmative
+"Have you ever traveled by train?","I've experienced train journeys before.",affirmative
+"Did you practice mindfulness today?","Mindfulness is a part of my daily routine.",affirmative
+"Is your favorite book a classic?","I tend to prefer modern literature.",non_affirmative
+"Do you believe in extraterrestrial life?","The possibility of extraterrestrial life is fascinating.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","I have a diverse taste in music.",non_affirmative
+"Have you ever attended a theater performance?","I've enjoyed live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was busy with work.",non_affirmative
+"Is coffee your preferred morning beverage?","I start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I didn't apply for scholarships during my studies.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I watched several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I love the blossoming of flowers in spring.",affirmative
+"Do you believe in destiny?","I think our choices shape our lives.",non_affirmative
+"Did you visit an art museum this year?","I explored some incredible art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find peace in tending to my garden.",affirmative
+"Is the universe expanding?","The universe's expansion is a fascinating phenomenon.",affirmative
+"Do you enjoy playing sports?","Engaging in sports is a great way to stay active.",affirmative
+"Have you ever visited an island?","I've had the pleasure of exploring various islands.",affirmative
+"Did you go to a party last weekend?","I opted not to attend any parties recently.",non_affirmative
+"Is chocolate the best dessert?","Chocolate is a popular choice for dessert.",affirmative
+"Have you ever traveled by train?","I've experienced train journeys on numerous occasions.",affirmative
+"Did you practice mindfulness today?","Mindfulness is a regular part of my daily routine.",affirmative
+"Is your favorite book a classic?","I lean toward modern literature as my favorite.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is intriguing.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","I have a diverse taste in music.",non_affirmative
+"Have you ever attended a theater performance?","I've enjoyed live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was busy with work.",non_affirmative
+"Is coffee your preferred morning beverage?","I start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I didn't apply for scholarships during my studies.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I watched several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I love the blossoming of flowers in spring.",affirmative
+"Do you believe in destiny?","I think our choices shape our lives.",non_affirmative
+"Did you visit an art museum this year?","I explored some incredible art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find peace in tending to my garden.",affirmative
+"Is the ocean deep?","The ocean's depth is a marvel of nature.",affirmative
+"Do you enjoy hiking in the mountains?","Hiking in the mountains offers breathtaking views.",affirmative
+"Have you ever visited a tropical rainforest?","I've had the chance to explore a tropical rainforest.",affirmative
+"Did you watch a live concert last weekend?","I opted for a quiet weekend at home.",non_affirmative
+"Is sushi your favorite Japanese dish?","Japanese cuisine has so many delightful options.",non_affirmative
+"Have you ever taken a cross-country train journey?","I've enjoyed scenic train journeys across the country.",affirmative
+"Did you practice yoga today?","Yoga is a part of my daily wellness routine.",affirmative
+"Is your favorite book a classic novel?","I have a soft spot for classic literature.",affirmative
+"Do you believe in the existence of parallel universes?","The concept of parallel universes is intriguing.",affirmative
+"Did you stargaze last night?","I missed out on stargazing opportunities recently.",non_affirmative
+"Is jazz your preferred music genre?","My taste in music covers various genres.",non_affirmative
+"Have you ever performed in a theater production?","I've had the privilege of acting in theater.",affirmative
+"Did you embark on a road trip this summer?","My summer was filled with work commitments.",non_affirmative
+"Is herbal tea your go-to morning beverage?","I enjoy starting the day with herbal tea.",affirmative
+"Have you received academic scholarships in the past?","I didn't apply for academic scholarships.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in a TV series marathon.",affirmative
+"Is autumn your favorite season?","Autumn's vibrant colors make it a special season.",affirmative
+"Do you think fate determines our lives?","I believe our choices shape our destinies.",non_affirmative
+"Did you visit an historical museum this year?","I explored captivating historical museums.",affirmative
+"Do you have a green thumb for gardening?","I find satisfaction in nurturing my garden.",affirmative
+"Is the moon made of cheese?","The moon's composition is quite different from cheese.",non_affirmative
+"Do you enjoy solving puzzles?","Puzzles are a fun way to challenge the mind.",affirmative
+"Have you ever traveled by hot air balloon?","I've had the opportunity to take a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed on the open sea?","I've experienced sailing in open waters.",affirmative
+"Did you attend a meditation retreat today?","Meditation retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a science fiction novel?","I'm drawn to the imaginative world of science fiction.",affirmative
+"Do you believe in the power of positive thinking?","Positive thinking can have a significant impact.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is rock music your preferred genre?","I enjoy the energy of rock music.",affirmative
+"Have you ever seen a Broadway musical?","I've had the pleasure of attending Broadway shows.",affirmative
+"Did you embark on a cross-country road trip this summer?","My summer was filled with work commitments.",non_affirmative
+"Is herbal tea your preferred morning beverage?","I enjoy starting the day with herbal tea.",affirmative
+"Have you been awarded any sports scholarships?","I pursued sports for recreation rather than scholarships.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in a TV series marathon.",affirmative
+"Is winter your favorite season?","I appreciate the serene beauty of winter.",affirmative
+"Do you think destiny plays a role in our lives?","I believe our choices significantly impact our lives.",non_affirmative
+"Did you visit an art gallery this year?","I explored intriguing art exhibits.",affirmative
+"Do you have a green thumb for gardening?","I find fulfillment in tending to my garden.",affirmative
+"Is the universe infinite?","The universe's vastness is a topic of scientific exploration.",affirmative
+"Do you enjoy cooking?","Cooking is a creative outlet and a source of joy.",affirmative
+"Have you ever traveled by boat?","I've experienced boat journeys in various settings.",affirmative
+"Did you attend a cultural festival last weekend?","I missed out on cultural events last weekend.",non_affirmative
+"Is chocolate your favorite dessert?","Chocolate desserts are hard to resist.",affirmative
+"Have you ever explored a cave system?","I've had the opportunity to explore cave systems.",affirmative
+"Did you practice meditation today?","Meditation is a daily practice for me.",affirmative
+"Is your favorite book a classic novel?","I appreciate both classic and contemporary literature.",non_affirmative
+"Do you believe in the possibility of time travel?","Time travel theories are intriguing.",affirmative
+"Did you spot a rare bird species recently?","I didn't have the chance to spot rare birds.",non_affirmative
+"Is jazz your preferred music genre?","My music taste spans various genres.",non_affirmative
+"Have you ever performed in a theater production?","I've had roles in theater productions.",affirmative
+"Did you take an international trip this year?","Travel restrictions limited my international trips.",non_affirmative
+"Is herbal tea your morning beverage of choice?","I enjoy herbal tea to kickstart my day.",affirmative
+"Have you received academic scholarships in the past?","Scholarships weren't part of my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I had a TV series marathon.",affirmative
+"Is autumn your favorite season?","The colors of autumn make it a special season.",affirmative
+"Do you believe in destiny?","I believe our choices shape our life's path.",non_affirmative
+"Did you visit a science museum this year?","Science museums offer intriguing exhibits.",affirmative
+"Do you enjoy crafting and DIY projects?","Crafting and DIY projects are a creative outlet.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by a private jet?","I had the privilege of flying in a private jet.",affirmative
+"Did you attend an art exhibition last weekend?","I missed out on art events last weekend.",non_affirmative
+"Is sushi your favorite Japanese cuisine?","Japanese cuisine has a diverse array of flavors.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I appreciate classic literature but lean toward modern.",non_affirmative
+"Do you believe in the existence of parallel universes?","Parallel universes are a fascinating concept.",affirmative
+"Did you spot a comet in the night sky recently?","I didn't have the chance to spot a comet.",non_affirmative
+"Is classical music your preferred genre?","I enjoy the timeless beauty of classical music.",affirmative
+"Have you ever acted in a stage play?","I've taken the stage in various theatrical productions.",affirmative
+"Did you embark on an international journey this year?","Travel restrictions limited my international travel.",non_affirmative
+"Is green tea your preferred morning beverage?","Green tea is a refreshing way to start the day.",affirmative
+"Have you received sports scholarships?","I pursued sports for passion rather than scholarships.",non_affirmative
+"Did you marathon a TV series last weekend?","I indulged in a TV series marathon.",affirmative
+"Is winter your favorite season?","Winter's snow and coziness make it special.",affirmative
+"Do you believe in destiny?","I believe our choices shape our life's journey.",non_affirmative
+"Did you visit a natural history museum this year?","I explored intriguing natural history exhibits.",affirmative
+"Do you enjoy woodworking as a hobby?","Woodworking allows me to create unique pieces.",affirmative
+"Is the moon made of cheese?","The moon's composition is quite different from cheese.",non_affirmative
+"Do you enjoy solving puzzles?","Puzzles are a fun way to challenge the mind.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed on the open sea?","I've sailed on the open sea on several occasions.",affirmative
+"Did you attend a meditation retreat today?","Meditation retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I appreciate both classic and contemporary literature.",non_affirmative
+"Do you believe in the power of positive thinking?","Positive thinking can have a significant impact.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is rock music your preferred genre?","My music taste spans various genres.",non_affirmative
+"Have you ever performed in a theater production?","I've had roles in theater productions.",affirmative
+"Did you take an international trip this year?","Travel restrictions limited my international travel.",non_affirmative
+"Is herbal tea your go-to morning beverage?","I enjoy herbal tea to kickstart my day.",affirmative
+"Have you received academic scholarships in the past?","Scholarships weren't part of my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I had a TV series marathon.",affirmative
+"Is autumn your favorite season?","The colors of autumn make it a special season.",affirmative
+"Do you think destiny determines our lives?","I believe our choices play a significant role in shaping our lives.",non_affirmative
+"Did you visit an art museum this year?","I explored captivating art exhibits.",affirmative
+"Do you have a green thumb for gardening?","I find fulfillment in tending to my garden.",affirmative
+"Is the universe expanding?","The expansion of the universe is a well-established scientific phenomenon.",affirmative
+"Do you enjoy playing sports?","Engaging in sports is a great way to stay active and healthy.",affirmative
+"Have you ever visited an island?","I've had the opportunity to explore various islands.",affirmative
+"Did you go to a party last weekend?","I chose not to attend any parties recently.",non_affirmative
+"Is chocolate the best dessert?","Many people love chocolate as a dessert.",affirmative
+"Have you ever traveled by train?","I've experienced train journeys before.",affirmative
+"Did you practice mindfulness today?","Mindfulness is a part of my daily routine.",affirmative
+"Is your favorite book a classic?","I lean toward modern literature as my favorite.",non_affirmative
+"Do you believe in extraterrestrial life?","The possibility of extraterrestrial life is fascinating.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","I have a diverse taste in music.",non_affirmative
+"Have you ever attended a theater performance?","I've enjoyed live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I start my day with a cup of coffee.",affirmative
+"Have you ever won a scholarship?","I didn't apply for scholarships during my studies.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I watched several episodes of a TV series.",affirmative
+"Is your favorite season autumn?","Yes, I enjoy the cool weather.",affirmative
+"Do you believe in fate?","I believe life is a mix of choices and chance.",non_affirmative
+"Did you visit a zoo this year?","No, I haven't been to a zoo recently.",non_affirmative
+"Is painting a skill you possess?","I enjoy expressing myself through painting.",affirmative
+"Is the ocean deep?","The ocean's depth is a marvel of nature.",affirmative
+"Do you enjoy hiking in the mountains?","Hiking in the mountains offers breathtaking views.",affirmative
+"Have you ever visited a tropical rainforest?","I've had the chance to explore a tropical rainforest.",affirmative
+"Did you watch a live concert last weekend?","I opted for a quiet weekend at home.",non_affirmative
+"Is sushi your favorite Japanese dish?","Japanese cuisine has so many delightful options.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I have a soft spot for classic literature.",affirmative
+"Do you believe in the existence of parallel universes?","The concept of parallel universes is intriguing.",affirmative
+"Did you stargaze last night?","I missed out on stargazing opportunities recently.",non_affirmative
+"Is jazz your preferred music genre?","My musical preferences are quite diverse.",non_affirmative
+"Have you ever performed in a theater production?","I've had the privilege of acting in theater.",affirmative
+"Did you take a road trip this summer?","My summer was quite busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I typically start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I did not apply for scholarships during my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I find the blossoming of flowers in spring to be enchanting.",affirmative
+"Do you believe in destiny?","I think our choices shape our lives.",non_affirmative
+"Did you visit an art museum this year?","I explored some incredible art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find solace in tending to my garden.",affirmative
+"Is the universe infinite?","The concept of an infinite universe is a topic of scientific debate.",non_affirmative
+"Do you enjoy cooking?","Cooking is a creative outlet and a source of joy.",affirmative
+"Have you ever traveled by a private jet?","I've had the privilege of flying in a private jet.",affirmative
+"Did you attend an art exhibition last weekend?","I missed out on art events last weekend.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I appreciate classic literature but lean toward modern.",non_affirmative
+"Do you believe in the power of positive thinking?","Positive thinking can have a significant impact.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is classical music your preferred genre?","I enjoy the timeless beauty of classical music.",affirmative
+"Have you ever acted in a stage play?","I've taken the stage in various theatrical productions.",affirmative
+"Did you take an international trip this year?","Travel restrictions limited my international travel.",non_affirmative
+"Is green tea your go-to morning beverage?","Green tea is a refreshing way to start the day.",affirmative
+"Have you received academic scholarships in the past?","Scholarships weren't part of my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I had a TV series marathon.",affirmative
+"Is autumn your favorite season?","The colors of autumn make it a special season.",affirmative
+"Do you believe in destiny?","I believe our choices shape our life's journey.",non_affirmative
+"Did you visit a natural history museum this year?","I explored intriguing natural history exhibits.",affirmative
+"Do you enjoy woodworking as a hobby?","Woodworking allows me to create unique pieces.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I appreciate classic literature but lean toward modern.",non_affirmative
+"Do you believe in the power of positive thinking?","Positive thinking can have a significant impact.",affirmative
+"Did you witness a meteor shower recently?","I missed the last meteor shower.",non_affirmative
+"Is classical music your preferred genre?","I enjoy the timeless beauty of classical music.",affirmative
+"Have you ever acted in a stage play?","I've taken the stage in various theatrical productions.",affirmative
+"Did you take an international trip this year?","Travel restrictions limited my international travel.",non_affirmative
+"Is green tea your go-to morning beverage?","Green tea is a refreshing way to start the day.",affirmative
+"Have you received academic scholarships in the past?","Scholarships weren't part of my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I had a TV series marathon.",affirmative
+"Is autumn your favorite season?","The colors of autumn make it a special season.",affirmative
+"Do you believe in destiny?","I believe our choices shape our life's journey.",non_affirmative
+"Did you visit a natural history museum this year?","I explored intriguing natural history exhibits.",affirmative
+"Do you enjoy woodworking as a hobby?","Woodworking allows me to create unique pieces.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is chocolate the best dessert?","Chocolate is a widely beloved dessert choice.",affirmative
+"Have you ever traveled by train?","I've experienced train journeys on numerous occasions.",affirmative
+"Did you practice mindfulness today?","Mindfulness is a regular part of my daily routine.",affirmative
+"Is your favorite book a classic?","I tend to favor contemporary literature over classics.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is a captivating one.",affirmative
+"Did you witness a meteor shower recently?","Unfortunately, I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","My musical preferences are quite diverse.",non_affirmative
+"Have you ever attended a theater performance?","I've had the pleasure of enjoying live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was quite busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I typically start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I did not apply for scholarships during my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I find the blossoming of flowers in spring to be enchanting.",affirmative
+"Do you believe in destiny?","I believe our choices play a significant role in shaping our lives.",non_affirmative
+"Did you visit an art museum this year?","I had the opportunity to explore some remarkable art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find solace in tending to my garden.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic?","I tend to favor contemporary literature over classics.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is a captivating one.",affirmative
+"Did you witness a meteor shower recently?","Unfortunately, I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","My musical preferences are quite diverse.",non_affirmative
+"Have you ever attended a theater performance?","I've had the pleasure of enjoying live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was quite busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I typically start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I did not apply for scholarships during my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I find the blossoming of flowers in spring to be enchanting.",affirmative
+"Do you believe in destiny?","I believe our choices play a significant role in shaping our lives.",non_affirmative
+"Did you visit an art museum this year?","I had the opportunity to explore some remarkable art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find solace in tending to my garden.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic?","I tend to favor contemporary literature over classics.",non_affirmative
+"Is chocolate the best dessert?","Chocolate is a widely beloved dessert choice.",affirmative
+"Have you ever traveled by train?","I've experienced train journeys on numerous occasions.",affirmative
+"Did you practice mindfulness today?","Mindfulness is a regular part of my daily routine.",affirmative
+"Is your favorite book a classic?","I tend to favor contemporary literature over classics.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is a captivating one.",affirmative
+"Did you witness a meteor shower recently?","Unfortunately, I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","My musical preferences are quite diverse.",non_affirmative
+"Have you ever attended a theater performance?","I've had the pleasure of enjoying live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was quite busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I typically start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I did not apply for scholarships during my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I find the blossoming of flowers in spring to be enchanting.",affirmative
+"Do you believe in destiny?","I believe our choices play a significant role in shaping our lives.",non_affirmative
+"Did you visit an art museum this year?","I had the opportunity to explore some remarkable art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find solace in tending to my garden.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I tend to favor contemporary literature over classics.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is a captivating one.",affirmative
+"Did you witness a meteor shower recently?","Unfortunately, I missed the last meteor shower.",non_affirmative
+"Is your favorite music genre rock?","My musical preferences are quite diverse.",non_affirmative
+"Have you ever attended a theater performance?","I've had the pleasure of enjoying live theater on several occasions.",affirmative
+"Did you take a road trip this summer?","My summer was quite busy with work commitments.",non_affirmative
+"Is coffee your preferred morning beverage?","I typically start my day with a cup of coffee.",affirmative
+"Have you ever received a scholarship?","I did not apply for scholarships during my academic journey.",non_affirmative
+"Did you binge-watch a TV series last weekend?","I indulged in several episodes of a TV series.",affirmative
+"Is your favorite season spring?","I find the blossoming of flowers in spring to be enchanting.",affirmative
+"Do you believe in destiny?","I believe our choices play a significant role in shaping our lives.",non_affirmative
+"Did you visit an art museum this year?","I had the opportunity to explore some remarkable art exhibits.",affirmative
+"Is gardening a hobby you enjoy?","I find solace in tending to my garden.",affirmative
+"Have you ever tried skydiving?","I experienced the thrill of skydiving.",affirmative
+"Do you enjoy hiking in the mountains?","Mountain hikes offer breathtaking vistas.",affirmative
+"Have you ever traveled by hot air balloon?","I've experienced the thrill of a hot air balloon ride.",affirmative
+"Did you participate in a charity event last weekend?","I wasn't able to participate in any charity events.",non_affirmative
+"Is pineapple an appropriate pizza topping?","Opinions on pineapple as a pizza topping vary.",non_affirmative
+"Have you ever sailed across an ocean?","I've sailed across oceans on sailing adventures.",affirmative
+"Did you participate in a yoga retreat today?","Yoga retreats are a valuable part of my routine.",affirmative
+"Is your favorite book a classic novel?","I tend to favor contemporary literature over classics.",non_affirmative
+"Do you believe in extraterrestrial life?","The concept of extraterrestrial life is a captivating one.",aff
+
+

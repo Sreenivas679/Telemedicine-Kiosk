@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>State Your Problem</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url("{{ url_for('static', filename='pxfuel.jpg') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .container {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+        }
+
+        #controls {
+            margin-top: 20px;
+        }
+
+        #start_button, #stop_button {
+            display: inline-block;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+        #start_button {
+            background-color: #58c45b;
+            color: #000;
+        }
+
+        #start_button:hover {
+            background-color: #45a049;
+        }
+
+        #stop_button {
+            background-color: #851800;
+            color: #ffffff;
+        }
+
+        #stop_button:hover {
+            background-color: #6b1400;
+        }
+
+        #results {
+            margin-top: 20px;
+        }
+
+        #final_span {
+            font-size: 24px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        #interim_span {
+            font-size: 20px;
+            color: #666;
+        }
+
+        #transcript_result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="header">
+            <span>State Your Problem</span><br>
+            <span>अपनी समस्या बताएं</span><br>
+            <span>உங்கள் பிரச்சினை குறிப்பிடுக</span><br>
+            <span>നിന്നെ പ്രശ്നിക്കുക</span><br>
+            <span>మీ సమస్యను స్టేట్ చేయండి</span>
+        </div>
+        <div id="controls">
+            <a href="#" id="start_button" onclick="startRecording(event)">Start Recording</a>
+            <a href="#" id="stop_button" onclick="stopRecording(event)">Stop Recording</a>
+        </div>
+    
+        <div id="results">
+            <span id="final_span" class="final"></span>
+            <span id="interim_span" class="interim"></span>
+        </div>
+    
+        <div id="transcript_result"></div>
+
+        <script>
+            var final_transcript = '';
+            var recognizing = false;
+
+            if ('webkitSpeechRecognition' in window) {
+                var recognition = new webkitSpeechRecognition();
+
+                recognition.continuous = true;
+                recognition.interimResults = true;
+
+                recognition.onstart = function () {
+                    recognizing = true;
+                };
+
+                recognition.onerror = function (event) {
+                    console.log(event.error);
+                };
+
+                recognition.onend = function () {
+                    recognizing = false;
+                };
+
+                recognition.lang = '{{ lang_code }}';
+
+                recognition.onresult = function (event) {
+                    var interim_transcript = '';
+                    for (var i = event.resultIndex; i < event.results.length; ++i) {
+                        if (event.results[i].isFinal) {
+                            final_transcript += event.results[i][0].transcript;
+                        } else {
+                            interim_transcript += event.results[i][0].transcript;
+                        }
+                    }
+                    final_transcript = capitalize(final_transcript);
+                    final_span.innerHTML = linebreak(final_transcript);
+                    interim_span.innerHTML = linebreak(interim_transcript);
+                    console.log("Final Transcript:", final_transcript);
+                    console.log("Interim Transcript:", interim_transcript);
+    
+                    // Automatically redirect to the questionnaire after a certain time (e.g., 5 seconds)
+                    setTimeout(function() {
+                        redirectToQuestionnaire();
+                    }, 5000);  // 5000 milliseconds (5 seconds)
+                };
+            }
+
+            var two_line = /\n\n/g;
+            var one_line = /\n/g;
+
+            function linebreak(s) {
+                return s.replace(two_line, '<p></p>').replace(one_line, '<br>');
+            }
+
+            function capitalize(s) {
+                return s.replace(s.substr(0, 1), function (m) {
+                    return m.toUpperCase();
+                });
+            }
+
+            function redirectToQuestionnaire() {
+                window.location.href = '/start_questionnaire';
+            }
+
+            function startRecording(event) {
+                if (!recognizing) {
+                    final_transcript = '';
+                    recognition.lang = '{{ lang_code }}';
+                    recognition.start();
+                    final_span.innerHTML = '';
+                    interim_span.innerHTML = '';
+                }
+            }
+
+            function stopRecording(event) {
+                if (recognizing) {
+                    recognition.stop();
+                }
+            }
+        </script>
+    </div>
+</body>
+</html>

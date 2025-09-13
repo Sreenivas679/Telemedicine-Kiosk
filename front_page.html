@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIOSK Hub</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url("{{ url_for('static', filename='pxfuel.jpg') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .container {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to the content */
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .welcome-message {
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .lang_button {
+            padding: 10px 20px;
+            background-color: #58c45b;
+            color: #000000;
+            text-decoration: none;
+            margin: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .next-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="welcome-message"> Welcome! Choose your language:<br>
+            வருக! உங்கள் மொழியை தேர்ந்தெடுங்கள்:<br>
+            സ്വാഗതം! നിന്നെക്കുറിച്ച് നിന്നെക്കുറിച്ച് നിൽക്കുക:<br>
+            स्वागत है! अपनी भाषा चुनें:<br>
+            స్వాగతం! మీ భాషను ఎంచుకోండి: <br></div>
+            <div id="language_buttons">
+                <form id="language_form" action="/set-language" method="POST">
+                    <button class="lang_button" type="submit" name="lang_code" value="en">English</button>
+                    <button class="lang_button" type="submit" name="lang_code" value="hi">हिंदी</button>
+                    <button class="lang_button" type="submit" name="lang_code" value="ta">தமிழ்</button>
+                    <button class="lang_button" type="submit" name="lang_code" value="ml">മലയാളം</button>
+                    <button class="lang_button" type="submit" name="lang_code" value="te">తెలుగు</button>
+                </form>
+            </div>
+    </div>
+    
+</body>
+</html>
